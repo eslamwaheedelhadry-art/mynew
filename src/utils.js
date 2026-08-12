@@ -1,4 +1,4 @@
-import { randInt } from './shared.js';
+import { randInt } from './common.js';
 
 export { randInt };
 export default randInt;

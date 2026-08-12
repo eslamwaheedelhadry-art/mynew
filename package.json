@@ -1,0 +1,11 @@
+{
+  "name": "mynew",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "docs": "jsdoc -c jsdoc.json -r src -d docs"
+  },
+  "devDependencies": {
+    "jsdoc": "^4.0.2"
+  }
+}
